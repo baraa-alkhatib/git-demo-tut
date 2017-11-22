@@ -1,3 +1,9 @@
 body {
+<<<<<<< HEAD
   background: red;
+||||||| merged common ancestors
+  background: lavender;
+=======
+  background: yellow;
+>>>>>>> feature-1
 }
